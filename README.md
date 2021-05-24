@@ -1,2 +1,2 @@
-# introducao-a-computacao
-Repositório pra guardar os exercícios da faculdade.
+# MAC0110 - Introdução a computação - IME-USP
+Repositório pra eu guardar os exercícios da faculdade.
