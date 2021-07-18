@@ -1,13 +1,8 @@
-'''
-MAC110 - Introdução à Computação
-Primeiro Semestre de 2021
-
-Exercício 1
-A sequência de Fibonacci é uma sequência de inteiros onde cada elemento é igual
-a soma dos dois anteriores. Os dois primeiros são iguais a 1:
-1, 1, 2, 3, 5, 8, 13, 21, 34,...
-Faça um programa que dado N > 0, imprima todos os números da sequência menores ou iguais a N.
-'''
+# MAC110 - Introdução à Computação
+# Primeiro Semestre de 2021
+# BMAC–IMEUSP
+# Aluno: Edgar Soares Marinho
+# nºUSP: 9337691
 
 # Início do programa
 print("### Fibonacci ###\n")
